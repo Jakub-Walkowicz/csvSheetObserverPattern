@@ -1,0 +1,14 @@
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/bin/Debug/net6.0/CsvSheetObserverPattern
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/bin/Debug/net6.0/CsvSheetObserverPattern.deps.json
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/bin/Debug/net6.0/CsvSheetObserverPattern.runtimeconfig.json
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/bin/Debug/net6.0/CsvSheetObserverPattern.dll
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/bin/Debug/net6.0/CsvSheetObserverPattern.pdb
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/CsvSheetObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/CsvSheetObserverPattern.AssemblyInfoInputs.cache
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/CsvSheetObserverPattern.AssemblyInfo.cs
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/CsvSheetObserverPattern.csproj.CoreCompileInputs.cache
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/CsvSheetObserverPattern.dll
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/refint/CsvSheetObserverPattern.dll
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/CsvSheetObserverPattern.pdb
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/CsvSheetObserverPattern.genruntimeconfig.cache
+/Users/jakubwalkowicz/Library/Mobile Documents/com~apple~CloudDocs/Inz_op_zad/csvSheetObserverPattern/CsvSheetObserverPattern/obj/Debug/net6.0/ref/CsvSheetObserverPattern.dll
